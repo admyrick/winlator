@@ -1,0 +1,22 @@
+- Source: [Reddit](https://www.reddit.com/r/EmulationOnAndroid/comments/1hqh98x/gta_v_winlator_s8g3_100_playable_settings_in/)
+- Device: Lenovo Y700 2024
+- Processor: Qualcomm Snapdragon 8 Gen 3)
+- Game version: "Latest fitgirl repack, unpacked on my PC, then copied in the Downloads folder of my tablet"
+- Software: Winlator 7.1.3x Cmod GLIBC v11R2 by coffincolors
+- Winlator Settings:
+  - Wine 9.2 (Custom)
+  - Box64: 0.3.0
+  - Box64 Preset: Performance 
+- Container Settings
+  - Screen Size: 1400 x 900
+  - Graphics Driver: Turnip 24.3.0
+  - DX Wrapper: 2.4.1-gplasync, Enable Async ON, Enable Async Cache ON, Frame Rate 0, Max Device Memory 0
+  - Audio driver: Pulse
+  - GPU Name: NVIDIA GeForce GTX 1070
+  - Video Memory Size: 2048MB
+  - MESA_SHADER_CACHE_MAX_SIZE: 512MB
+  - Processor Affinity: All Checked
+- Misc:
+  - DirectInput for XinputBridge inside the game directory for better controller input feeling.
+  - Tried using Ajay_prefix v10.14.beta2.exe to install some dependencies, but I don't think it is necessary.
+  - Game Settings: Default, Fullscreen
