@@ -1,0 +1,61 @@
+- Source: [Reddit](https://www.reddit.com/r/winlator/comments/1g9oiof/no_mans_sky/)
+- Device: Samsung Galaxy Z Fold 5
+- Processor: Qualcomm Snapdragon 8 Gen 3
+- Game version: N/A
+- Software: Winlator
+- Winlator Settings:
+- Wine 9.2 (Custom)
+- Box64: 0.3.1.8g2
+- VKD3D 2.13 12_2
+- Sound: wt_210k_G.sf2
+- XServer:
+    - Cursor Speed: 150%
+    - Use DRI3 extension: Enabled
+    - True Mouse Control: Enabled
+- Box64 Preset: NMS
+- RC File: Disabled
+- Startup Selection: Aggressive
+- Game Controller:
+  - Enable XInput for Games in Wine: Enabled
+  - Enable DInput for Games in Wine: Disabled
+- Processor Affinity: All Boxes Checked
+- DXVK Configuration:
+  - Version: 2.4
+  - Frame Rate: 0 (Default)
+  - Max Device Memory: 0 (Default)
+- Graphics Driver Configuration:
+  - Turnip-24.3.0-R-8 
+- Variables:
+	  - SAFEFLAGS: 2
+	  - FASTNAN: Enabled
+	  - FASTROUND: Enabled
+	  - X87DOUBLE: Disabled
+	  - BIGBLOCK: 3
+	  - STRONGMEM: 1
+	  - FORWARD: 1024
+	  - CALLRET: Enabled
+	  - DYNAREC_WAIT: Enabled
+	  - BOX64_AVX: 2
+	  - BOX64_MAXCPU: 8
+	  - UNITYPLAYER: Disabled
+- Container Settings
+	- Screen Size: N/A
+	- Graphics Driver: Turnip-25.1.0
+	- VKD3D 2.13 12_2
+	- DX Wrapper: 2.4.1-gplasync, Enable Async ON, Enable Async Cache ON, Frame Rate 0, Max Device Memory 0
+	- Audio driver: ALSA
+  - CSMT: Enable
+  - Offscreen Rendering Mode: GBO
+	- GPU Name: NVIDIA GeForce RTX 3070
+	- Video Memory Size: 4096 MB
+  - Mouse Warp Overdrive: Disable
+	- MESA_SHADER_CACHE_MAX_SIZE: N/A
+	- Processor Affinity: N/A
+- Misc: Added mods to improve performance https://www.nexusmods.com/cyberpunk2077/mods/10490?tab=files&file_id=101750
+- Game Settings: 
+	- Upscale Resolution: FFX Super Resolution 3
+	- FFX Super Resolution 3: Automatic
+	- FSR 3: 0.50
+	- Frame Gen: AMD FSR3
+	- Textures: Low
+	- Render: Low
