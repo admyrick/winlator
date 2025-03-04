@@ -1,0 +1,41 @@
+- Source: [Reddit](https://www.reddit.com/r/EmulationOnAndroid/comments/1isani1/cyberpunk_2077_sd8gen3/)
+- Device: OnePlus 13R
+- Processor: Qualcomm Snapdragon 8 Gen 3
+- Game version: "Steam version without DRM"
+- Software: Winlator.glibcmod v11R2
+- Winlator Settings:
+- Wine 9.2 (Custom)
+- Box64: 0.3.1.8g2
+- VKD3D 2.13 12_2
+- Box64 Preset: Performance (Custom)
+- Variables:
+	  - SAFEFLAGS: 0
+	  - FASTNAN: Enabled
+	  - FASTROUND: Enabled
+	  - X87DOUBLE: Disabled
+	  - BIGBLOCK: 3
+	  - STRONGMEM: 0
+	  - FORWARD: 1024
+	  - CALLRET: Enabled
+	  - DYNAREC_WAIT: Enabled
+	  - BOX64_AVX: 1
+	  - BOX64_MAXCPU: 64
+	  - UNITYPLAYER: Disabled
+- Container Settings
+	- Screen Size: N/A
+	- Graphics Driver: Turnip-25.1.0
+	- VKD3D 2.13 12_2
+	- DX Wrapper: 2.4.1-gplasync, Enable Async ON, Enable Async Cache ON, Frame Rate 0, Max Device Memory 0
+	- Audio driver: ALSA
+	- GPU Name: NVIDIA GeForce N/A
+	- Video Memory Size: N/A
+	- MESA_SHADER_CACHE_MAX_SIZE: N/A
+	- Processor Affinity: N/A
+- Misc: Added mods to improve performance https://www.nexusmods.com/cyberpunk2077/mods/10490?tab=files&file_id=101750
+- Game Settings: 
+	- Upscale Resolution: FFX Super Resolution 3
+	- FFX Super Resolution 3: Automatic
+	- FSR 3: 0.50
+	- Frame Gen: AMD FSR3
+	- Textures: Low
+	- Render: Low
