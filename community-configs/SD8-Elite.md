@@ -1,0 +1,6 @@
+- Source: [Reddit](https://www.reddit.com/r/EmulationOnAndroid/comments/1ilw5x6/winlator_s_25_ultra/)
+  - Device: Galaxy S25 Ultra
+  - Graphics Driver: Vortek (Universal)
+  - DX Wrapper: DXVK
+  - Audio Driver: ALSA
+  - GPU Name: GeForce GTX 480
