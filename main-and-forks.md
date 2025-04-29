@@ -1,5 +1,6 @@
 ## Winlator and Forks
   - [Winlator](https://github.com/brunodev85/winlator)
+  - [Winlator Bionic](https://github.com/jhinzuo/winlator/releases)
   - [winebox64](https://github.com/winebox64/winlator)
   - [Winlator-Frost](https://github.com/MrPhryaNikFrosty/Winlator-Frost)
   - [CoffinColors](https://github.com/coffincolors/winlator)
