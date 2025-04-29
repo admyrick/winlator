@@ -18,6 +18,8 @@
 ---
 ## Extras
 - [Winlator101](https://github.com/K11MCH1/Winlator101)
+- [Prevent Steam Updates](https://github.com/longjunyu2/OldSteam/releases)
+- [Rare: Epic Games Launcher Alternative](https://raredevs.github.io/Rare/)
 - [WinlatorTurnipDrivers](https://github.com/K11MCH1/WinlatorTurnipDrivers)
 - [AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers/blob/main/docs/winlator.md)
 - [Ajay Prefix](https://github.com/ajay9634/Ajay-prefix)
