@@ -9,7 +9,16 @@
   - [WinMali](https://github.com/Fcharan/WinlatorMali/releases)
   - [Winlator-Glibc Mod](https://github.com/afeimod/winlator-glibc)
   - [tinyproot/winlator](https://github.com/tinyproot/winlator)
- 
+  - [winlator-ajay](https://github.com/ajay9634/winlator-ajay/releases)
+  - [cjxyz/winlator](https://github.com/cjxyz/winlator)
 ---
 ## Extras
+- [Winlator101](https://github.com/K11MCH1/Winlator101)
+- [WinlatorTurnipDrivers](https://github.com/K11MCH1/WinlatorTurnipDrivers)
+- [AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers/blob/main/docs/winlator.md)
 - [Ajay Prefix](https://github.com/ajay9634/Ajay-prefix)
+- [Winlator-Steammodded1.0.0](https://github.com/Dimserene/Winlator-Steammodded1.0.0)
+- [Steammodded/smods](https://github.com/Steamodded/smods)
+- [lovely-injector](https://github.com/ethangreen-dev/lovely-injector)
+- [FTL-Android-Keymap](https://github.com/The-Dumb-Dino/FTL-Android-Keymap)
+- [XHYN-PH/winlator-mod](https://github.com/XHYN-PH/winlator-mod)
