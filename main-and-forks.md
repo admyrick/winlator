@@ -22,3 +22,4 @@
 - [lovely-injector](https://github.com/ethangreen-dev/lovely-injector)
 - [FTL-Android-Keymap](https://github.com/The-Dumb-Dino/FTL-Android-Keymap)
 - [XHYN-PH/winlator-mod](https://github.com/XHYN-PH/winlator-mod)
+- [Gothic 1 on RP5](https://gist.github.com/cb109/361add3129d64fa81824bae049b1b0c9)
